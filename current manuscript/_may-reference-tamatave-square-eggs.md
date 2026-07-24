@@ -1,3 +1,8 @@
+<div style="background:#F3E6D4;border:1px solid #E2C9A8;border-radius:8px;padding:14px 18px;margin:0 0 1.2em 0;color:#5C4A32;">
+<strong>OLDER · May version</strong><br/>
+Soft cream page = for checking only. Edit the other page (your book).
+</div>
+
 # May version — Tamatave and the square eggs
 
 *This is your May wording for checking only. Edit your July chapter beside it — do not treat this page as the finished book.*
