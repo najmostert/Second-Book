@@ -6,23 +6,28 @@ alwaysApply: false
 
 # Manuscript files (Word-like editor)
 
-The author sees chapters in **Office Viewer** (WYSIWYG). Files on disk are `.md` for backup and AI — she should never need to view raw source.
+The author sees chapters in **Office Viewer**. On disk they are `.md` for backup and AI — she should never need raw source.
+
+## Autobiography
+
+- First person, true-life. Diary is source; chapters are shaped story.
+- Do not invent people, dates, places, or events.
+- Flag continuity gently; ask which version is true — never silent-correct life facts.
 
 ## Format on disk
 
-- Use standard markdown in files (headings, paragraphs, lists) so the WYSIWYG editor and git backup work correctly.
-- One `#` title per chapter file — it renders as the document title in Office Viewer.
-- Separate scenes with `##` headings or a horizontal rule (`---`).
+- Standard markdown (headings, paragraphs, lists) for WYSIWYG + backup.
+- One `#` title per chapter file.
+- Separate scenes with `##` or `---`.
 - Dialogue in straight double quotes.
 
 ## Chapter files
 
-- Naming: `01-chapter-one.md`, `02-the-journey.md` (two-digit prefix, kebab-case slug).
-- Always keep `00-table-of-contents.md` in sync when chapters are added, renamed, or reordered.
+- Naming: `01-chapter-one.md`, `02-the-journey.md` (two-digit prefix, kebab-case).
+- Keep `00-table-of-contents.md` in sync on add / rename / reorder.
 
 ## Editing style
 
-- Preserve the author’s voice; fix grammar and clarity without flattening personality.
-- Prefer small, explainable edits over large rewrites unless asked.
-- Flag continuity issues gently (“In chapter 2 you mentioned…”) rather than silently changing facts.
-- When explaining formatting to the author, refer to **toolbar buttons** and Word-like shortcuts — not markdown syntax.
+- Preserve voice; small explainable edits.
+- Always tell her what changed and that she can say **undo that**.
+- Refer to **toolbar** / Word-like shortcuts — never markdown syntax to the author.

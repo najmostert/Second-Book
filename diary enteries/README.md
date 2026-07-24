@@ -1,8 +1,11 @@
-# Diary Entries
+# Diary entries
 
-One file per entry works well. Name them by date, for example:
+These are your **source notes** — real life on the page. The book chapters are shaped from these.
 
-- `2026-07-24.md`
-- `2026-07-25.md`
+## How to use
 
-Ask the AI helper to “create today’s diary entry” if you like — it will set up the file for you.
+- One file per entry works well, named by date (for example today’s date).
+- Say in Chat: **“Create today’s diary entry.”**
+- When you’re ready, say: **“Turn this diary into a chapter draft.”**
+
+Your original diary wording is kept. Chapter drafts live in **current manuscript** — the helper will always tell you what it created.

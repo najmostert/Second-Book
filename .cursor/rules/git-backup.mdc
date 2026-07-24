@@ -15,6 +15,7 @@ After you **Write** or **StrReplace** any file under:
 - `story planning/`
 - `diary enteries/`
 - `general references/`
+- `COMMANDS.md`, `README.md`, `WRITING.md`, or `.cursor/skills/`
 
 run:
 

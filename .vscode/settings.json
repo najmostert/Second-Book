@@ -1,0 +1,12 @@
+{
+  "vscode-office.enableTelemetry": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 1.6,
+  "workbench.editorAssociations": {
+    "*.md": "cweijan.vscode-office",
+    "*.markdown": "cweijan.vscode-office"
+  }
+}

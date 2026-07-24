@@ -1,11 +1,11 @@
 # Table of Contents
 
-Use this file to track chapters and their order. Add a line for each chapter as you go.
+Your life story — chapter by chapter. Ask the helper to add or rename chapters; it will keep this list up to date.
 
-| # | Chapter title | File | Status |
-|---|---------------|------|--------|
-| 1 | *(title here)* | `01-chapter-one.md` | draft |
+| # | Chapter title | Status |
+|---|---------------|--------|
+| 1 | *(title here)* | draft |
 
 ---
 
-**Tip:** Ask the AI helper to “add a new chapter called …” and it will create the file and update this table for you.
+Say in Chat: **“Add a new chapter called …”** or **“What’s in my book so far?”**

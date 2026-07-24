@@ -1,24 +1,37 @@
-# Story Planning
+# Life outline (autobiography)
 
-Notes, outlines, character sketches, and plot ideas live here. Nothing has to be polished — this is your thinking space.
+This is the spine of the book — real life, shaped into chapters. Nothing has to be perfect.
 
 ## Big picture
 
-- **Theme:**
-- **Setting:**
-- **Time period:**
+- **Working title:**
+- **Tone:** *(warm, honest, reflective…)*
+- **Time span covered:**
+- **Through-line / theme:** *(what holds the story together)*
 
-## Characters
+## Life periods (rough)
 
-| Name | Role | Notes |
-|------|------|-------|
+| Period / years | Place / situation | Chapter ideas | Diary sources |
+|----------------|-------------------|---------------|---------------|
+| | | | |
+
+## People who matter
+
+| Name | Relationship | Notes (how they appear in the story) |
+|------|--------------|--------------------------------------|
 | | | |
 
-## Plot outline
+## Chapter map (living)
 
 1.
 2.
 3.
+
+## Truthfulness notes
+
+- Facts and dates come from **diary entries** and memory — do not invent.
+- Sensitive topics to handle carefully:
+-
 
 ## Open questions
 

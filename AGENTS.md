@@ -1,96 +1,60 @@
 # Second Book — Agent instructions
 
-This repository is a **book-writing workspace** for a non-technical author. Agents must treat **writing support** as the product and **git/infra** as invisible plumbing.
+Book-writing workspace for a **non-technical author**. Product = writing support + calm organisation. Git/infra = invisible.
 
-## Primary mission
+## Mission
 
-Help the author draft, edit, organise, and plan her second book. Match her voice. Be warm and clear. Never expose technical machinery unless explicitly asked by Jan (the technical setup person).
+Help her draft an **autobiography from real diary entries**. Match her voice. Never invent life facts. Never expose technical machinery unless Jan asks.
 
-## Repository layout
+## Layout
 
 ```
 current manuscript/     ← chapters + 00-table-of-contents.md
-story planning/           ← outlines, characters, plot
-diary enteries/           ← dated diary entries (folder name has typo — keep it)
-general references/       ← research notes
-legacy/                   ← archived Apple Pages binaries — do not edit
-.cursor/rules/            ← persistent AI behaviour
-.cursor/hooks/            ← automatic git backup (silent)
+story planning/         ← outline, timeline, where-we-left-off
+diary enteries/         ← source diary (keep folder spelling)
+general references/
+legacy/                 ← Pages binaries — do not edit
+COMMANDS.md             ← author-facing phrase menu
+.cursor/rules/          ← always-on behaviour
+.cursor/skills/         ← task skills (organiser, edit, review, …)
+.cursor/hooks/          ← silent backup
+.vscode/                ← Office Viewer defaults
 ```
 
-## Automatic backup
+## Skills (auto-discover)
 
-| Trigger | Mechanism |
-|---------|-----------|
-| File edit (`.md` in manuscript folders) | `afterFileEdit` hook → `backup.sh` |
-| Session end | `sessionEnd` hook → `backup.sh` |
-| Agent writes manuscript files | Agent runs `.cursor/hooks/backup.sh` after edits |
-
-Backup script behaviour:
-
-- Debounces commits to at most once every **2 minutes**
-- Commits only manuscript paths + user-facing docs
-- Pushes to `origin` (GitHub: `najmostert/Second-Book`)
-- Logs to `.cursor/backup-state/backup.log` — never show this to the author
-
-On push failure: reassure that local saves exist; do not dump git errors.
+| Skill | When |
+|-------|------|
+| `book-organiser` | Session start, vague requests, open/navigate |
+| `edit-and-polish` | Edit / polish / tone |
+| `check-grammar` | Grammar / spelling |
+| `check-prose` | Voice / flow |
+| `review-chapter` | Chapter feedback |
+| `review-structure` | Plan vs chapters |
+| `improve-plan` | Outline / timeline |
+| `diary-to-story` | Diary create / diary→chapter |
+| `undo-and-reassure` | Undo / what changed |
 
 ## Author-facing language
 
 | Instead of | Say |
 |------------|-----|
-| commit / push / git | "saved" / "backed up" |
-| merge conflict | "two versions need reconciling — I'll help" |
-| branch | (don't mention) |
-| markdown / .md | "your chapter file" |
+| commit / push / git | saved / backed up |
+| markdown / `.md` | your chapter / diary page |
+| skill / hook | (don’t mention) |
 
-## Common tasks
+Every change: **what** · **where** · **how to undo** (“say undo that”).
 
-### New chapter
+## Backup
 
-1. Create `current manuscript/NN-slug.md` with `# Title` and placeholder body.
-2. Update `00-table-of-contents.md`.
-3. Run backup script.
+After manuscript/planning/diary edits: `.cursor/hooks/backup.sh`  
+Also: `afterFileEdit` + `sessionEnd` hooks. Log: `.cursor/backup-state/backup.log` (never show author).
 
-### Diary entry
+Include in backup staging: `COMMANDS.md`, `.cursor/skills/`, `.vscode/`.
 
-1. Create `diary enteries/YYYY-MM-DD.md`.
-2. Run backup script.
+## Safety
 
-### Editing
-
-- Small, explainable diffs.
-- Ask before deleting large passages.
-- Use rules in `.cursor/rules/manuscript-markdown.mdc`.
-
-### Legacy Pages
-
-Binary `.pages` in `legacy/` cannot be read programmatically. Guide copy-paste or export to Word/PDF if conversion is needed.
-
-## One-time setup (Jan only)
-
-```bash
-./setup-github.sh   # init remote, first push
-chmod +x .cursor/hooks/*.sh   # already set in repo
-```
-
-Ensure GitHub credentials work on Mum's Mac (credential helper or SSH). Hooks need network for push.
-
-## What agents must not do
-
-- Ask the author to use the terminal
-- Force-push, `--amend`, or rewrite history
-- Edit `legacy/*.pages` binaries
-- Commit secrets or `.env` files
-- Over-engineer structure without being asked
-
-## Rules reference
-
-Always-applied Cursor rules:
-
-- `book-project.mdc` — audience, folders, tone
-- `git-backup.mdc` — silent backup discipline
-
-File-scoped:
-
-- `manuscript-markdown.mdc` — when editing `**/*.md` in manuscript folders
+- No large deletes without confirmation  
+- No invented autobiography facts  
+- No editing `legacy/*.pages`  
+- No terminal instructions for the author  

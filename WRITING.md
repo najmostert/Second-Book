@@ -1,55 +1,37 @@
-# Writing in this project
+# Writing your life story
 
-Your chapters open in a **Word-like editor** inside Cursor. You should see normal text on the page and a toolbar at the top — not code or strange symbols.
+This book is an **autobiography** built from your real **diary entries**. Diary pages stay as source notes; chapters are the shaped story.
 
-## Daily workflow
+## Daily habit
 
-1. Open **`current manuscript/`** and your latest chapter.
-2. Click in the text and write. It saves automatically after a short pause.
-3. Ask the AI for help anytime — editing, ideas, new chapters, diary entries.
+1. Open Chat and say **“Where was I?”**
+2. Write in the chapter or diary page the helper opens.
+3. When stuck, say what you want in ordinary words — see **COMMANDS**.
 
-## Formatting (like Word)
+## Diary vs chapter
 
-Use the **toolbar** or these familiar shortcuts:
+| | Diary | Chapter |
+|---|--------|---------|
+| Purpose | Real notes from life | The book the reader will see |
+| Folder | **diary enteries** | **current manuscript** |
 
-| Shortcut | What it does |
-|----------|----------------|
-| **Cmd + B** | Bold |
-| **Cmd + I** | Italic |
-| **Cmd + U** | Underline (if shown in toolbar) |
-| Toolbar heading menu | Chapter titles and section headings |
-| Toolbar list buttons | Bullet or numbered lists |
+Say **“Create today’s diary entry”** when you want a fresh page.  
+Say **“Turn this diary into a chapter draft”** when you’re ready to shape it — your diary stays safe.
 
-You do **not** need to type symbols like `#` or `*` — use the toolbar instead.
+## Formatting
 
-## Chapters
-
-- Each chapter is its own file in **`current manuscript/`**.
-- **`00-table-of-contents`** lists all chapters — ask the AI to update it when you add one.
-
-## Diary entries
-
-- One file per day in **`diary enteries/`**, named by date.
-- Say “create today's diary entry” and the AI will set it up.
+Use the toolbar (or Cmd+B / Cmd+I). You don’t need special symbols.
 
 ## Planning
 
-Use **`story planning/ideas-and-outline`** for characters, plot, and notes that aren't part of the manuscript yet.
+- **ideas-and-outline** — the spine of your life story  
+- **life-timeline** — years and places  
+- **where-we-left-off** — so the next day starts easily  
 
-## Export to Word
+## If something feels wrong
 
-To share or print: **right‑click** inside a chapter → export to **Word (DOCX)**.
+Say **“Undo that”** or **“Put it back.”** The helper will restore your words and explain calmly.
 
-## If something looks wrong
+## Old Pages drafts
 
-If a file opens as plain text with `#` symbols:
-
-1. Press **Cmd + Shift + P**
-2. Type **Reopen Editor With**
-3. Choose **Office Viewer**
-
-Or ask Jan to check that the **Office Viewer** extension is installed.
-
-## Old drafts
-
-Your previous work in Apple Pages lives in **`legacy/`**. To reuse text, open the Pages file, copy what you need, and paste into a chapter — the AI can help tidy it up.
+Copy anything useful from **legacy** into a diary or chapter — ask the helper to tidy the paste.

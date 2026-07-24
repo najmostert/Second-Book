@@ -52,9 +52,12 @@ git add \
   "general references/" \
   README.md \
   WRITING.md \
+  COMMANDS.md \
   AGENTS.md \
   .gitignore \
+  .vscode/ \
   .cursor/rules/ \
+  .cursor/skills/ \
   .cursor/hooks.json \
   .cursor/hooks/*.sh \
   2>/dev/null || true
