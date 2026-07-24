@@ -10,9 +10,9 @@ description: >-
 
 ## Scope
 
-Fix: spelling, punctuation, agreement, awkward grammar that blocks reading.
+Fix: spelling (**British English**), punctuation, agreement, awkward grammar that blocks reading.
 
-Do **not**: rewrite style, add drama, change meaning, or “improve” vocabulary unless she also asked for prose help.
+Do **not**: rewrite style, add drama, change meaning, or “improve” vocabulary unless she also asked for prose help. Do not switch narrative to present tense.
 
 ## Process
 

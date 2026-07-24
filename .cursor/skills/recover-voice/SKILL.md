@@ -20,7 +20,8 @@ She dislikes a full-book Gemini rewrite. She is hand-editing back toward what sh
    - Open with a real two-pane compare (`code -d may… july…`) and verify both paths are open before she edits.
 3. Show her the difference in plain words (short): “May sounds more like you here because…”
 4. Ask: “Shall I put this passage closer to your May wording?” / “Shall I only keep a few of your May phrases?”
-5. Apply **only** what she agrees to — never replace a whole chapter silently.
+5. Apply **only** what she agrees to — never replace a whole chapter silently.  
+   Convert May present tense to **past tense**; use **British English** spelling; light grammar only.  
 6. Remind: say **undo that** if she dislikes it.
 
 ## Rules

@@ -14,10 +14,12 @@ Type these in **Chat**, or use your own words.
 
 ## Writing
 
+**Defaults for every edit:** past tense · British English · light grammar
+
 | Say… | What happens |
 |------|----------------|
 | **Polish this paragraph** | Gentle edit, keeps your voice |
-| **Check the grammar** | Spelling / grammar only |
+| **Check the grammar** | Spelling / grammar only (British English) |
 | **Check the prose** / **Does this sound like me?** | Voice and flow |
 | **Make this gentler** / **Make this stronger** | Tone |
 | **More like my May version** | Closer to your preferred May wording |

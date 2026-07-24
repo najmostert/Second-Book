@@ -9,7 +9,7 @@ Recover her book’s voice after an unhelpful Gemini rewrite — hand-editing to
 Confirmed 2026-07-24:
 
 - **Past tense** for chapter narrative  
-- **British English** spelling  
+- **British English** spelling (including **towards**, not *toward*)  
 - Light grammar fixes when editing  
 - When restoring voice: prefer **May** wording (in past tense), not Gemini padding  
 

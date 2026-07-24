@@ -1,8 +1,8 @@
 # Where we left off
 
 - **Date:** 2026-07-24  
-- **Last focus:** Madagascar 2003 — Nosy Mangabe restored from May into past tense (British spelling + light grammar)  
-- **Open / recent:** Chapter 17 through end of Nosy Mangabe  
-- **Next:** Masoala — same: say **May past tense from here**  
+- **Last focus:** Standing rule set — all future edits: past tense + British English + light grammar  
+- **Open / recent:** Madagascar 2003 at French keyboard / Dan email (not yet May-restored)  
+- **Next:** **May past tense from here** from Dan’s email / French keyboard onward  
 
 *(Keep this short. Goal lives in current-goal.md.)*
