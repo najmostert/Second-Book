@@ -18,7 +18,7 @@ description: >-
 
 Follow **mum-voice** (confirm first). Prefer small changes; no mass rewrite (see **current-goal**). Keep facts and her phrasing.
 
-**Defaults for every edit:** past-tense narrative, British English spelling, light grammar. Do not switch to present tense or American spelling unless she asks.
+**Defaults for every edit:** past-tense narrative, British English spelling (e.g. **towards** not *toward*), light grammar. Do not switch to present tense or American spelling unless she asks.
 
 Summarise changes in plain bullets; offer **undo that**.
 
