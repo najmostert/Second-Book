@@ -1,53 +1,25 @@
 # Second Book
 
-Welcome. This is your writing desk for your **life story** — shaped from your diary notes. Everything saves and backs up automatically.
+Your writing desk for your life story. Work saves automatically.
 
-## Getting started
+## Start here
 
-1. Open this folder in **Cursor**.
-2. If Cursor asks to **install recommended extensions**, click **Install** (Word-like editor).
-3. Open **`COMMANDS`** in the side list — easy phrases you can say to the helper.
-4. Open Chat and try: **“Where was I?”**
+1. Open **Chat** and say **Where was I?**  
+2. Or pick a chapter from **current manuscript** and write.  
+3. Phrases that help: see **COMMANDS**.
 
-You do **not** need to learn technical tools. Just write and ask for help in your own words.
+## Folders (simple)
 
-## Folders
-
-| Folder | What's it for? |
+| Folder | What it’s for |
 |--------|----------------|
 | **current manuscript** | Your book chapters |
-| **story planning** | Life outline, timeline, where you left off |
-| **diary enteries** | Real diary / source notes |
-| **general references** | Research and background |
-| **legacy** | Old Pages drafts — leave these alone |
+| **story planning** | Outline and notes |
+| **diary enteries** | Diary / source notes |
+| **general references** | Research |
+| **legacy** | Old drafts — leave alone |
 
-## Writing — like Word
+## Writing
 
-Chapters open in a **rich editor** with a toolbar. Click and type.
-
-- **Cmd + B** bold · **Cmd + I** italic  
-- Use the **toolbar** for headings and lists  
-- **Right‑click** → export to Word if you want a file to email  
-
-If a page looks like code, say in Chat: **“Make this look like Word again.”**
-
-## Ask for help
-
-See **COMMANDS** for the full list. Examples:
-
-- “Where was I?”
-- “Polish this paragraph.”
-- “Check the grammar in this section.”
-- “Turn this diary into a chapter draft.”
-- “Undo that.”
-
-## More help
-
-- **WRITING** — daily habits  
-- **COMMANDS** — what to say to the helper  
-
-## For Jan
-
-- Extension: **Office Viewer** (`cweijan.vscode-office`) — install on Mum’s Mac too  
-- Editor association must be `cweijan.markdownViewer` (not the package id)  
-- Skills: `.cursor/skills/` · Backup log: `.cursor/backup-state/backup.log`
+Chapters open like a normal document (toolbar). **Cmd+B** bold · **Cmd+I** italic.  
+If a page looks like code, say: **Make this look like Word again.**  
+If something technical breaks, ask the helper for a short note to send to **Tim**.

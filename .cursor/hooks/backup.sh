@@ -53,7 +53,6 @@ git add \
   legacy/README.md \
   legacy/exports/README.md \
   README.md \
-  WRITING.md \
   COMMANDS.md \
   AGENTS.md \
   .gitignore \
@@ -66,9 +65,9 @@ git add \
 
 # Pick up deletions of tracked project docs
 git add -u -- \
-  README.md WRITING.md COMMANDS.md AGENTS.md markdownshortcuts.md \
+  README.md WRITING.md COMMANDS.md AGENTS.md \
   "current manuscript" "story planning" "diary enteries" "general references" \
-  legacy .cursor/rules .cursor/skills .vscode \
+  legacy .cursor/rules .cursor/skills .vscode .cursor/hooks \
   2>/dev/null || true
 
 if git diff --cached --quiet; then

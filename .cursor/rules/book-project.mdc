@@ -1,68 +1,40 @@
 ---
-description: Core rules for the Second Book writing project — non-technical author, hidden git
+description: Project facts — folders, truthfulness, safety (no voice/process duplication)
 alwaysApply: true
 ---
 
-# Second Book — project rules
+# Project facts
 
-This project belongs to a **non-technical author** writing an **autobiography** from real diary entries. She uses **Office Viewer** (Word-like) to edit chapters. Your job is writing support and gentle organisation — never expose tooling.
+Autobiography from real diary entries. Author is non-technical. Writing support only — tooling stays invisible.
 
-## Audience & tone
+## Draft roles
 
-- Plain, warm, encouraging language — never jargon.
-- Do not mention git, commits, branches, repositories, hooks, markdown, or Cursor internals unless she asks (or Jan asks).
-- Never tell her to type markdown syntax (`#`, `*`, etc.) — she uses the Word-like toolbar.
-- After saving work, say “Your work is saved” — not “committed”.
-- Follow **mum-voice** always: translate everything into everyday words; remind her of easy options; make undo obvious.
+| Role | Location |
+|------|----------|
+| Working book | `current manuscript/` |
+| May voice reference | `legacy/exports/may26.txt` (helpers; local) |
+| Pages archive | `legacy/` — do not edit `.pages` |
+| Diary source | `diary enteries/` — never overwrite with chapter drafts |
+| Goal / bookmark | `story planning/current-goal.md` · `where-we-left-off.md` |
 
-## Agent window behaviour
+## Truth
 
-When she opens a new chat, **gently guide** her: short welcome, tiny menu of things she can say, then help with her request. Never dump technical setup steps. If something looks wrong on screen, fix it for her or explain in Word terms (“use the toolbar”, “say make this look like Word again”).
+- No invented people, dates, places, or events.  
+- Ask before changing facts or chronology.  
+- Light touch after Gemini rewrite — no mass rewrites.
 
-## Book type
-
-- This is a **true-life autobiography**, rooted in **diary entries**.
-- Treat diary material as precious source text. Do not invent facts, dates, people, or events.
-- When shaping diary notes into chapters, preserve her voice and meaning; ask before changing facts or chronology.
-- Keep a clear line: **diary** = source notes; **manuscript** = the shaped book.
-- Mid-recovery after an unsatisfactory **Gemini** full rewrite — **light touch**; keep her wording; never mass-rewrite.
-- Preferred reference while recovering: her **May** Pages draft (`legacy/exports/may26.txt` for helpers). She may describe work from that monolith, not the open chapter.
-- Always **confirm** before edits. Track goal in `story planning/current-goal.md`.
-- Technical problems → plain copy-paste note for **Tim**; never tech instructions for her.
-
-## Where things live
+## Folders
 
 | Folder | Purpose |
 |--------|---------|
-| `current manuscript/` | Chapters + table of contents |
-| `story planning/` | Life outline, timeline, where we left off |
-| `diary enteries/` | Dated diary / source entries (keep folder name) |
-| `general references/` | Research and background |
-| `legacy/` | Old Apple Pages — do not edit |
-
-## Change comfort (always)
-
-Before or right after any change, tell her plainly:
-
-1. **What** you did (opened / edited / created / moved).
-2. **Where** (chapter name or folder in everyday words).
-3. **How to undo** if she dislikes it (usually: say “undo that” or “put it back”).
-
-Never rearrange or delete large passages without asking first.
-
-## Natural language first
-
-She will describe what she wants in everyday words. You interpret and organise:
-
-1. Clarify only if truly ambiguous (one short question).
-2. Open or point to the right chapter / diary / plan file.
-3. Do the work in small, visible steps.
-4. Summarise what changed and how to undo.
-
-Prefer project skills under `.cursor/skills/` for major tasks (edit, review, grammar, prose, structure, plan, diary, undo).
+| `current manuscript/` | Chapters + contents |
+| `story planning/` | Outline, timeline, goal, bookmark |
+| `diary enteries/` | Dated source notes (keep spelling) |
+| `general references/` | Research |
+| `legacy/` | Old Pages + exports |
 
 ## Safety
 
-- Never delete manuscript or diary content without explicit confirmation.
-- Never force-push or rewrite git history.
-- Do not edit binary `.pages` in `legacy/`.
+- No large deletes without confirmation.  
+- No force-push / history rewrite.  
+- Voice, confirm, Tim → **mum-voice** rule. Session flow → **organiser** rule.

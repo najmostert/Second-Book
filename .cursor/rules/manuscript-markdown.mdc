@@ -1,33 +1,14 @@
 ---
-description: Markdown manuscript editing conventions
+description: Markdown on disk for chapters (author sees Word-like editor)
 globs: current manuscript/**/*.md,story planning/**/*.md,diary enteries/**/*.md,general references/**/*.md
 alwaysApply: false
 ---
 
-# Manuscript files (Word-like editor)
+# Manuscript on disk
 
-The author sees chapters in **Office Viewer**. On disk they are `.md` for backup and AI — she should never need raw source.
+Author sees Office Viewer. On disk: standard markdown for backup/AI.
 
-## Autobiography
-
-- First person, true-life. Diary is source; chapters are shaped story.
-- Do not invent people, dates, places, or events.
-- Flag continuity gently; ask which version is true — never silent-correct life facts.
-
-## Format on disk
-
-- Standard markdown (headings, paragraphs, lists) for WYSIWYG + backup.
-- One `#` title per chapter file.
-- Separate scenes with `##` or `---`.
-- Dialogue in straight double quotes.
-
-## Chapter files
-
-- Naming: `01-chapter-one.md`, `02-the-journey.md` (two-digit prefix, kebab-case).
-- Keep `00-table-of-contents.md` in sync on add / rename / reorder.
-
-## Editing style
-
-- Preserve voice; small explainable edits.
-- Always tell her what changed and that she can say **undo that**.
-- Refer to **toolbar** / Word-like shortcuts — never markdown syntax to the author.
+- One `#` title per chapter; scenes with `##` or `---`.  
+- Names: `01-slug.md`; keep `00-table-of-contents.md` in sync.  
+- No invented facts; confirm before big cuts.  
+- To the author: toolbar language only — never markdown syntax.

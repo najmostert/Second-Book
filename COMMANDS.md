@@ -1,67 +1,47 @@
 # Easy things you can say
 
-You can type any of these into **Chat**, or say the same idea in your own words. The helper will open the right files and explain what it changed.
-
----
+Type these in **Chat**, or use your own words.
 
 ## Everyday
 
-| Say something like… | What happens |
-|---------------------|--------------|
-| **Where was I?** | Reminds you where you left off and opens the right chapter |
-| **Open chapter 2** / **Open the harbour chapter** | Opens that chapter for you |
-| **What’s in my book so far?** | Shows your chapter list and a short status |
-| **Create today’s diary entry** | Makes a new diary page for today |
-| **Add a new chapter called …** | Creates the chapter and updates the contents list |
+| Say… | What happens |
+|------|----------------|
+| **Where was I?** | Reminds you and opens the right place |
+| **Open the preface** / **Open chapter …** | Opens that chapter |
+| **What’s in my book so far?** | Short chapter list |
+| **Create today’s diary entry** | New diary page |
+| **Add a new chapter called …** | New chapter + contents update |
 
----
+## Writing
 
-## Writing & polishing
+| Say… | What happens |
+|------|----------------|
+| **Polish this paragraph** | Gentle edit, keeps your voice |
+| **Check the grammar** | Spelling / grammar only |
+| **Check the prose** / **Does this sound like me?** | Voice and flow |
+| **Make this gentler** / **Make this stronger** | Tone |
+| **More like my May version** | Closer to your preferred May wording |
 
-| Say something like… | What happens |
-|---------------------|--------------|
-| **Edit this section** / **Polish this paragraph** | Improves clarity while keeping your voice |
-| **Check the grammar in this section** | Fixes grammar and spelling carefully |
-| **Check the prose** / **Does this sound like me?** | Looks at rhythm, tone, and voice |
-| **Make this gentler** / **Make this stronger** | Adjusts tone without changing your meaning |
+## Review
 
----
-
-## Reviewing
-
-| Say something like… | What happens |
-|---------------------|--------------|
-| **Review this chapter** | Friendly notes on what’s working and what to improve |
-| **Check this against my plan** | Compares the chapter to your outline / timeline |
-| **Check continuity** | Looks for date, place, or people mismatches |
-| **Improve my plan** | Helps strengthen the life outline without rewriting your life |
-
----
+| Say… | What happens |
+|------|----------------|
+| **Review this chapter** | Friendly feedback |
+| **Check this against my plan** | Vs outline |
+| **Check continuity** | Dates / places / people |
 
 ## Diary → book
 
-| Say something like… | What happens |
-|---------------------|--------------|
-| **Turn this diary into a chapter draft** | Shapes diary notes into manuscript prose (asks before big leaps) |
-| **Which diary entries fit chapter 3?** | Matches diary pages to a chapter |
-| **Keep this closer to the diary** | Pulls the chapter back toward your original wording |
-| **More like my May version** | Brings a passage closer to your preferred May wording |
+| Say… | What happens |
+|------|----------------|
+| **Turn this diary into a chapter draft** | Shapes diary into a chapter (asks first) |
+| **Keep this closer to the diary** | Closer to your diary words |
 
----
+## If you don’t like a change
 
-## If something feels wrong
+| Say… | What happens |
+|------|----------------|
+| **Undo that** / **Put it back** | Restores previous wording |
+| **Explain what you changed** | Plain list |
 
-| Say something like… | What happens |
-|---------------------|--------------|
-| **Undo that** / **Put it back** | Restores what you had before the last change |
-| **I don’t like this version** | Offers your original or a lighter edit |
-| **Explain what you changed** | Plain list of what moved or was rewritten |
-
----
-
-## Tips
-
-- You never need to hunt through folders — just ask.
-- Your work saves automatically.
-- If a chapter looks odd, say: **“Make this look like Word again.”**
-- The helper will often remind you of simple options — pick one, or use your own words.
+Stuck? Say what you want in ordinary words — or ask for a note to send to **Tim**.
