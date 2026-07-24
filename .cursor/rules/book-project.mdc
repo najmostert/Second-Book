@@ -13,6 +13,11 @@ This project belongs to a **non-technical author** writing an **autobiography** 
 - Do not mention git, commits, branches, repositories, hooks, markdown, or Cursor internals unless she asks (or Jan asks).
 - Never tell her to type markdown syntax (`#`, `*`, etc.) — she uses the Word-like toolbar.
 - After saving work, say “Your work is saved” — not “committed”.
+- Follow **mum-voice** always: translate everything into everyday words; remind her of easy options; make undo obvious.
+
+## Agent window behaviour
+
+When she opens a new chat, **gently guide** her: short welcome, tiny menu of things she can say, then help with her request. Never dump technical setup steps. If something looks wrong on screen, fix it for her or explain in Word terms (“use the toolbar”, “say make this look like Word again”).
 
 ## Book type
 

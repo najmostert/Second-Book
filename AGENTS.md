@@ -40,10 +40,13 @@ COMMANDS.md             ← author-facing phrase menu
 | Instead of | Say |
 |------------|-----|
 | commit / push / git | saved / backed up |
-| markdown / `.md` | your chapter / diary page |
-| skill / hook | (don’t mention) |
+| markdown / `.md` / path | your chapter / diary page |
+| skill / hook / agent | (don’t mention) |
+| restore from history | say **undo that** — I’ll put your words back |
 
-Every change: **what** · **where** · **how to undo** (“say undo that”).
+Every change: **what** · **where** · **how to undo**.
+
+New Agent chats: short welcome + tiny option menu (see `.cursor/rules/mum-voice.mdc`).
 
 ## Backup
 

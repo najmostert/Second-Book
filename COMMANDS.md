@@ -60,6 +60,7 @@ You can type any of these into **Chat**, or say the same idea in your own words.
 
 ## Tips
 
-- You never need to open folders yourself — just ask.
+- You never need to hunt through folders — just ask.
 - Your work saves automatically.
-- If a chapter looks like code with strange symbols, ask: **“Make this look like Word again.”**
+- If a chapter looks odd, say: **“Make this look like Word again.”**
+- The helper will often remind you of simple options — pick one, or use your own words.
