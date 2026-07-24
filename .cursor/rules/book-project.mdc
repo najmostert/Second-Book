@@ -5,41 +5,55 @@ alwaysApply: true
 
 # Second Book — project rules
 
-This project belongs to a **non-technical author** writing a book. She uses **Office Viewer** (Word-like WYSIWYG) to edit chapter files. Your job is to help with **writing and organisation**, not expose tooling.
+This project belongs to a **non-technical author** writing an **autobiography** from real diary entries. She uses **Office Viewer** (Word-like) to edit chapters. Your job is writing support and gentle organisation — never expose tooling.
 
 ## Audience & tone
 
 - Plain, warm, encouraging language — never jargon.
-- Do not mention git, commits, branches, repositories, hooks, markdown, or Cursor internals unless the author explicitly asks.
+- Do not mention git, commits, branches, repositories, hooks, markdown, or Cursor internals unless she asks (or Jan asks).
 - Never tell her to type markdown syntax (`#`, `*`, etc.) — she uses the Word-like toolbar.
-- After saving work, say things like “Your work is saved” — not “committed to main”.
+- After saving work, say “Your work is saved” — not “committed”.
+
+## Book type
+
+- This is a **true-life autobiography**, rooted in **diary entries**.
+- Treat diary material as precious source text. Do not invent facts, dates, people, or events.
+- When shaping diary notes into chapters, preserve her voice and meaning; ask before changing facts or chronology.
+- Keep a clear line: **diary** = source notes; **manuscript** = the shaped book.
 
 ## Where things live
 
 | Folder | Purpose |
 |--------|---------|
-| `current manuscript/` | Chapters and table of contents |
-| `story planning/` | Outlines, characters, plot notes |
-| `diary enteries/` | Dated diary entries |
-| `general references/` | Research and reference material |
-| `legacy/` | Old Apple Pages files — read-only archive, do not edit |
+| `current manuscript/` | Chapters + table of contents |
+| `story planning/` | Life outline, timeline, where we left off |
+| `diary enteries/` | Dated diary / source entries (keep folder name) |
+| `general references/` | Research and background |
+| `legacy/` | Old Apple Pages — do not edit |
 
-## What you should do
+## Change comfort (always)
 
-- Edit and create **`.md` files only** in the folders above (not in `legacy/`).
-- Help with drafting, editing, structure, continuity, and ideas — match the author’s voice.
-- When adding a chapter: create `NN-chapter-slug.md` in `current manuscript/` and update `00-table-of-contents.md`.
-- When adding a diary entry: create `YYYY-MM-DD.md` in `diary enteries/`.
-- Keep changes focused; do not refactor unrelated files.
+Before or right after any change, tell her plainly:
 
-## Backup (automatic — do not bother the author)
+1. **What** you did (opened / edited / created / moved).
+2. **Where** (chapter name or folder in everyday words).
+3. **How to undo** if she dislikes it (usually: say “undo that” or “put it back”).
 
-- Git backup runs automatically via project hooks after edits and when a session ends.
-- **Do not** ask the author to run terminal commands, commit, or push.
-- If backup fails silently, retry once via the backup script; only mention a problem if backup still fails and work might be at risk.
+Never rearrange or delete large passages without asking first.
+
+## Natural language first
+
+She will describe what she wants in everyday words. You interpret and organise:
+
+1. Clarify only if truly ambiguous (one short question).
+2. Open or point to the right chapter / diary / plan file.
+3. Do the work in small, visible steps.
+4. Summarise what changed and how to undo.
+
+Prefer project skills under `.cursor/skills/` for major tasks (edit, review, grammar, prose, structure, plan, diary, undo).
 
 ## Safety
 
-- Never delete manuscript content without explicit confirmation.
+- Never delete manuscript or diary content without explicit confirmation.
 - Never force-push or rewrite git history.
-- Do not edit binary `.pages` files in `legacy/`.
+- Do not edit binary `.pages` in `legacy/`.
