@@ -3,19 +3,25 @@
 ## Last session
 
 - **Date:** 2026-07-24
-- **Working on:** Reading and editing the book **as she goes**
-- **Done:** Lead draft is in **current manuscript** (from July 2026 book). Practice run with the helper starting now.
-- **Next gentle step:** Carry on from the chapter she has open (recently looking at Cape Town / Groote Schuur, and Rhodesia)
+- **Working on:** Recovering her voice after Gemini; hand-editing toward how she wants it (guided by her **May** draft)
+- **Done:** Writing desk set up; book pages available; Tim finished technical setup
+- **Next gentle step:** Ask her where she wants to continue — she may mean a scene from May, not the page currently open
 
-## Important for the helper
+## True picture (for helpers)
 
-- She previously put the book into **Gemini** for editing — she was **not happy** with that edit.
-- She is now **reviewing and changing herself**, chapter by chapter.
-- Prefer **small, careful help** when she asks. Keep **her own words** whenever possible. Never do a big Gemini-style rewrite unless she clearly asks.
-- Always remind her: say **undo that** if she doesn’t like a change.
+- She had been editing in **one big Pages document**, not only the split chapters on screen.
+- **Gemini** rewrote the whole book; she did **not** like that.
+- She is **hand-editing it back** toward what she wants, using **May Pages** as her preferred reference for voice and content.
+- The open chapter in Cursor may **not** be where she “was” — listen to what she describes (places, people, scenes) and find or open the matching part.
+- May reference text exists as a converted copy for helpers to consult when she asks to restore wording.
 
-## Notes for next time
+## How to help
 
-- Practice run — Jan will revise the setup based on how it goes
-- Lead source: July 2026 Pages book
-- Older Pages drafts stay in **legacy**
+- Always **ask and confirm** before changing her words.
+- Small fixes; keep her voice.
+- Offer: compare with May / put back closer to May / only fix spelling.
+- If something technical breaks, do **not** explain tech — give her a short message to copy to **Tim**.
+
+## Notes
+
+- See also: **current-goal**

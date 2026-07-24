@@ -34,6 +34,7 @@ COMMANDS.md             ← author-facing phrase menu
 | `improve-plan` | Outline / timeline |
 | `diary-to-story` | Diary create / diary→chapter |
 | `undo-and-reassure` | Undo / what changed |
+| `recover-voice` | Restore wording toward May / undo Gemini tone |
 
 ## Author-facing language
 
@@ -46,7 +47,9 @@ COMMANDS.md             ← author-facing phrase menu
 
 Every change: **what** · **where** · **how to undo**.
 
-New Agent chats: short welcome + tiny option menu (see `.cursor/rules/mum-voice.mdc`).
+New Agent chats: read `current-goal.md` + `where-we-left-off.md`; welcome + menu; **confirm before edits**.
+
+Technical issues for Mum → copy-paste note to **Tim** (never tech steps). May reference: `legacy/exports/may26.txt` (gitignored dump; local on this Mac).
 
 ## Backup
 

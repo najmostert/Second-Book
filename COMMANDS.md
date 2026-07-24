@@ -45,6 +45,7 @@ You can type any of these into **Chat**, or say the same idea in your own words.
 | **Turn this diary into a chapter draft** | Shapes diary notes into manuscript prose (asks before big leaps) |
 | **Which diary entries fit chapter 3?** | Matches diary pages to a chapter |
 | **Keep this closer to the diary** | Pulls the chapter back toward your original wording |
+| **More like my May version** | Brings a passage closer to your preferred May wording |
 
 ---
 

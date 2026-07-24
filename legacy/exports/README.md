@@ -6,9 +6,9 @@ Converted copies (for reference only):
 
 | File | Role |
 |------|------|
-| `July-2026-book.*` | **Lead manuscript** — this is what was split into `current manuscript/` |
+| `July-2026-book.*` | Split into `current manuscript/` (may include Gemini-era wording) |
+| `may26.*` | **Preferred voice reference** while she recovers from Gemini |
 | `5feb26latest.*` | Older draft |
-| `may26.*` | Older draft |
 | `Body-for-book.*` | Older draft |
 
 Working chapters for writing are in **`current manuscript/`**. These export files are backup conversions, not for daily editing.

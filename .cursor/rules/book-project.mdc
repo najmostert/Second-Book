@@ -25,7 +25,10 @@ When she opens a new chat, **gently guide** her: short welcome, tiny menu of thi
 - Treat diary material as precious source text. Do not invent facts, dates, people, or events.
 - When shaping diary notes into chapters, preserve her voice and meaning; ask before changing facts or chronology.
 - Keep a clear line: **diary** = source notes; **manuscript** = the shaped book.
-- She is mid-review after an unsatisfactory Gemini edit — **light touch**; keep her wording; never mass-rewrite a chapter unless she asks.
+- Mid-recovery after an unsatisfactory **Gemini** full rewrite — **light touch**; keep her wording; never mass-rewrite.
+- Preferred reference while recovering: her **May** Pages draft (`legacy/exports/may26.txt` for helpers). She may describe work from that monolith, not the open chapter.
+- Always **confirm** before edits. Track goal in `story planning/current-goal.md`.
+- Technical problems → plain copy-paste note for **Tim**; never tech instructions for her.
 
 ## Where things live
 
