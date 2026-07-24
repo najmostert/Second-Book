@@ -1,0 +1,45 @@
+---
+description: Core rules for the Second Book writing project — non-technical author, hidden git
+alwaysApply: true
+---
+
+# Second Book — project rules
+
+This project belongs to a **non-technical author** writing a book. She uses **Office Viewer** (Word-like WYSIWYG) to edit chapter files. Your job is to help with **writing and organisation**, not expose tooling.
+
+## Audience & tone
+
+- Plain, warm, encouraging language — never jargon.
+- Do not mention git, commits, branches, repositories, hooks, markdown, or Cursor internals unless the author explicitly asks.
+- Never tell her to type markdown syntax (`#`, `*`, etc.) — she uses the Word-like toolbar.
+- After saving work, say things like “Your work is saved” — not “committed to main”.
+
+## Where things live
+
+| Folder | Purpose |
+|--------|---------|
+| `current manuscript/` | Chapters and table of contents |
+| `story planning/` | Outlines, characters, plot notes |
+| `diary enteries/` | Dated diary entries |
+| `general references/` | Research and reference material |
+| `legacy/` | Old Apple Pages files — read-only archive, do not edit |
+
+## What you should do
+
+- Edit and create **`.md` files only** in the folders above (not in `legacy/`).
+- Help with drafting, editing, structure, continuity, and ideas — match the author’s voice.
+- When adding a chapter: create `NN-chapter-slug.md` in `current manuscript/` and update `00-table-of-contents.md`.
+- When adding a diary entry: create `YYYY-MM-DD.md` in `diary enteries/`.
+- Keep changes focused; do not refactor unrelated files.
+
+## Backup (automatic — do not bother the author)
+
+- Git backup runs automatically via project hooks after edits and when a session ends.
+- **Do not** ask the author to run terminal commands, commit, or push.
+- If backup fails silently, retry once via the backup script; only mention a problem if backup still fails and work might be at risk.
+
+## Safety
+
+- Never delete manuscript content without explicit confirmation.
+- Never force-push or rewrite git history.
+- Do not edit binary `.pages` files in `legacy/`.

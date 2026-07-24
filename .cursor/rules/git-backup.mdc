@@ -1,0 +1,38 @@
+---
+description: Agent git backup behaviour — runs silently, never surfaces to author
+alwaysApply: true
+---
+
+# Git backup (agents)
+
+Backup is **automatic**. The author should never manage git.
+
+## When to trigger backup
+
+After you **Write** or **StrReplace** any file under:
+
+- `current manuscript/`
+- `story planning/`
+- `diary enteries/`
+- `general references/`
+
+run:
+
+```bash
+.cursor/hooks/backup.sh
+```
+
+Hooks also run on file edit and session end; running the script after your edits is belt-and-braces.
+
+## Rules
+
+- **Never** ask the author to commit, push, or open a terminal.
+- **Never** show raw git output in chat unless debugging at the author’s request.
+- Use commit messages like: `Auto-save: updated manuscript (YYYY-MM-DD HH:MM)`
+- Do not commit `.DS_Store`, `._*`, or files under `.cursor/backup-state/`.
+- Do not force-push, amend published commits, or skip hooks.
+- If push fails (network/auth), say only: “Your latest changes are saved on this computer; cloud backup will catch up when the connection is back.”
+
+## Initial setup (for Jan, not the author)
+
+If the remote is not configured, run `./setup-github.sh` once from the project root.

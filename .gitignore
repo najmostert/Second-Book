@@ -9,3 +9,6 @@
 
 # Thumbnails
 Thumbs.db
+
+# Cursor backup runtime (logs/state only — hooks and rules are tracked)
+.cursor/backup-state/
