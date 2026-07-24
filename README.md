@@ -48,4 +48,6 @@ See **COMMANDS** for the full list. Examples:
 
 ## For Jan
 
-Office Viewer: `cweijan.vscode-office` (recommended in `.vscode/`). Skills: `.cursor/skills/`. Backup log: `.cursor/backup-state/backup.log`.
+- Extension: **Office Viewer** (`cweijan.vscode-office`) — install on Mum’s Mac too  
+- Editor association must be `cweijan.markdownViewer` (not the package id)  
+- Skills: `.cursor/skills/` · Backup log: `.cursor/backup-state/backup.log`

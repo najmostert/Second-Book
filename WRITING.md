@@ -32,6 +32,14 @@ Use the toolbar (or Cmd+B / Cmd+I). You don’t need special symbols.
 
 Say **“Undo that”** or **“Put it back.”** The helper will restore your words and explain calmly.
 
+### Page looks like code (`#` symbols)
+
+Chapters should look like a normal document with a toolbar. If not:
+
+1. Close the tab and open the chapter again from the left list  
+2. Or press **Cmd + Shift + P** → type **Reopen Editor With** → choose **Markdown Editor**  
+3. Or say in Chat: **“Make this look like Word again.”**
+
 ## Old Pages drafts
 
 Copy anything useful from **legacy** into a diary or chapter — ask the helper to tidy the paste.
