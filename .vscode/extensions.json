@@ -1,6 +1,6 @@
 {
-  "recommendations": [
+  "recommendations": [],
+  "unwantedRecommendations": [
     "cweijan.vscode-office"
-  ],
-  "unwantedRecommendations": []
+  ]
 }

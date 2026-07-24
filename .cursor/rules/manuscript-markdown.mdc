@@ -1,14 +1,14 @@
 ---
-description: Markdown on disk for chapters (author sees Word-like editor)
+description: Markdown on disk for chapters (plain text editor by default)
 globs: current manuscript/**/*.md,story planning/**/*.md,diary enteries/**/*.md,general references/**/*.md
 alwaysApply: false
 ---
 
 # Manuscript on disk
 
-Author sees Office Viewer. On disk: standard markdown for backup/AI.
+Default editor is the **plain text editor** so agents can jump to the right line (`code -g`). Do **not** open the Office / pretty markdown viewer unless Tim or the author specifically asks.
 
-- One `#` title per chapter; scenes with `##` or `---`.  
+- One `#` title per chapter; scenes with `##` or `---` (or plain scene titles).  
 - Names: `01-slug.md`; keep `00-table-of-contents.md` in sync.  
 - No invented facts; confirm before big cuts.  
-- To the author: toolbar language only — never markdown syntax.
+- To the author: never explain markdown syntax; if the page looks odd → short Tim note.

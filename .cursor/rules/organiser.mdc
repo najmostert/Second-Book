@@ -26,10 +26,11 @@ May restore → **recover-voice** skill. Tech → Tim copy-paste note.
 ## May vs July compare (do not break this)
 
 - **Never** put May excerpts inside `current manuscript/` — they look like the book.  
-- May check pages live only in `may check/` (read-only; cream “OLDER” banner).  
+- May check pages live only in `may check/` (read-only).  
 - Working chapter stays in `current manuscript/` (edit here).  
-- Opening with `code file1 file2` is **not** enough — Cursor often shows one pane. Prefer `code -d may check/… current manuscript/…` (May left, July right) **or** verify two different paths are open in two columns.  
-- If unsure both are open, stop and fix before asking her to edit.
+- Prefer plain text editor (project default). Do **not** use Office / pretty viewer unless asked — it breaks line jumps and scroll sync.  
+- Opening with `code file1 file2` is **not** enough — Cursor often shows one pane. Prefer `code -d may check/… current manuscript/…` (May left, July right), then `code -g path:line` on each side.  
+- If unsure both are open / scrolled correctly, stop and fix before asking her to edit.
 
 ## Bookkeeping
 

@@ -2,8 +2,8 @@
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1500,
   "workbench.editorAssociations": {
-    "*.md": "cweijan.markdownViewer",
-    "*.markdown": "cweijan.markdownViewer"
+    "*.md": "default",
+    "*.markdown": "default"
   },
   "vscode-office.enableTelemetry": false,
   "vscode-office.editMode": "wysiwyg",
