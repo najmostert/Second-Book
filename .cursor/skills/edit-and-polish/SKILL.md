@@ -17,8 +17,10 @@ description: >-
 ## How to edit
 
 - Prefer small, visible changes over a full rewrite.
+- She disliked a previous full-book AI edit (Gemini). Do **not** “improve everything” or flatten her voice into generic prose.
 - Keep diary-rooted facts intact.
 - Preserve her turns of phrase when they carry personality.
+- When she is mid-review, support the bit she points to — don’t rewrite the whole chapter unless she asks.
 - After: quote or summarise the main changes in plain English (2–5 bullets).
 
 ## Ask first when
