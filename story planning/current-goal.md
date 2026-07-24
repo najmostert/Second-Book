@@ -20,7 +20,8 @@ Short phrase: **May past tense from here**
 
 - Small steps; confirm before changing.  
 - She may mean a May scene, not the open chapter.  
-- No full-book rewrites.
+- No full-book rewrites.  
+- If something **doesn’t make sense**, ask her first — she may explain; do not silently “fix” facts or meaning.
 
 ## Last confirmed
 
