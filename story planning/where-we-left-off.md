@@ -1,8 +1,8 @@
 # Where we left off
 
 - **Date:** 2026-07-24  
-- **Last focus:** Hand-editing after Gemini; May draft as reference  
-- **Open / recent:** Cape Town (Groote Schuur) and Rhodesia were on screen — she may continue elsewhere  
-- **Next:** Ask where she wants to continue; match by scene name if needed  
+- **Last focus:** Madagascar 2003 — continuing hand-edit from **Tamatave and the square eggs** (May beside July)  
+- **Open / recent:** July Madagascar 2003 chapter + May reference page for that scene  
+- **Next:** Keep comparing May → July from Tamatave onward (Nosy Mangabe / Clive the chicken follows)  
 
 *(Keep this short. Goal lives in current-goal.md.)*
