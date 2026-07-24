@@ -1,12 +1,21 @@
 {
-  "vscode-office.enableTelemetry": false,
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 2000,
-  "editor.fontSize": 16,
-  "editor.wordWrap": "on",
-  "editor.lineHeight": 1.6,
+  "files.autoSaveDelay": 1500,
   "workbench.editorAssociations": {
-    "*.md": "cweijan.vscode-office",
-    "*.markdown": "cweijan.vscode-office"
-  }
+    "*.md": "cweijan.markdownViewer",
+    "*.markdown": "cweijan.markdownViewer"
+  },
+  "vscode-office.enableTelemetry": false,
+  "vscode-office.editMode": "wysiwyg",
+  "vscode-office.editorTheme": "Warm Light",
+  "editor.fontSize": 17,
+  "editor.lineHeight": 1.7,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.glyphMargin": false,
+  "breadcrumbs.enabled": false,
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false,
+  "markdown.preview.fontSize": 17,
+  "markdown.preview.lineHeight": 1.7
 }

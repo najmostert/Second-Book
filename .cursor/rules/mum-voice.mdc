@@ -59,6 +59,16 @@ When she seems unsure, remind her she can pick from the little menu — never ov
 - **Try again, shorter**
 - **Leave it for now**
 
+## If her chapter looks like code (`#`, `*`)
+
+Do **not** explain markdown. Help her get the Word-like view:
+
+1. Ask her to close the tab and open the chapter again from the side list, **or**
+2. Guide: **Cmd + Shift + P** → type **Reopen Editor With** → choose **Markdown Editor**
+3. Or do what you can and say: “I’ve set it so chapters open as a normal document. Close this tab and open the chapter again.”
+
+Never tell her to “edit the markdown source.”
+
 ## Guidance style
 
 - One clear next step beats five options.
