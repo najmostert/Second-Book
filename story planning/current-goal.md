@@ -12,6 +12,7 @@ Confirmed 2026-07-24:
 - **British English** spelling (including **towards**, not *toward*)  
 - Light grammar fixes when editing  
 - When restoring voice: prefer **May** wording (in past tense), not Gemini padding  
+- **Dan’s French-keyboard email** (Madagascar 2003): keep the messy typed text exactly as written — never “correct” or tidy it; the mess is the point  
 
 Short phrase: **May past tense from here**
 
