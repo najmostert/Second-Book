@@ -50,6 +50,8 @@ git add \
   "story planning/" \
   "diary enteries/" \
   "general references/" \
+  legacy/README.md \
+  legacy/exports/README.md \
   README.md \
   WRITING.md \
   COMMANDS.md \
@@ -66,7 +68,7 @@ git add \
 git add -u -- \
   README.md WRITING.md COMMANDS.md AGENTS.md markdownshortcuts.md \
   "current manuscript" "story planning" "diary enteries" "general references" \
-  .cursor/rules .cursor/skills .vscode \
+  legacy .cursor/rules .cursor/skills .vscode \
   2>/dev/null || true
 
 if git diff --cached --quiet; then

@@ -12,3 +12,10 @@ Thumbs.db
 
 # Cursor backup runtime (logs/state only — hooks and rules are tracked)
 .cursor/backup-state/
+
+# Large Pages conversion dumps (manuscript lives in current manuscript/)
+legacy/exports/*.docx
+legacy/exports/*.txt
+legacy/exports/*.md
+!legacy/exports/README.md
+
