@@ -21,6 +21,7 @@ Type these in **Chat**, or use your own words.
 | **Check the prose** / **Does this sound like me?** | Voice and flow |
 | **Make this gentler** / **Make this stronger** | Tone |
 | **More like my May version** | Closer to your preferred May wording |
+| **May past tense from here** | Puts May wording into past tense from where you are, with British spelling and light grammar |
 
 ## Review
 
