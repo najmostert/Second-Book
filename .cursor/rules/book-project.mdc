@@ -13,6 +13,7 @@ Autobiography from real diary entries. Author is non-technical. Writing support 
 |------|----------|
 | Working book | `current manuscript/` |
 | May voice reference | `legacy/exports/may26.txt` (helpers; local) |
+| May check pages (side-by-side) | `may check/` only — never inside `current manuscript/` |
 | Pages archive | `legacy/` — do not edit `.pages` |
 | Diary source | `diary enteries/` — never overwrite with chapter drafts |
 | Goal / bookmark | `story planning/current-goal.md` · `where-we-left-off.md` |

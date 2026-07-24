@@ -20,7 +20,7 @@
   "markdown.preview.lineHeight": 1.7,
   "workbench.editor.customLabels.enabled": true,
   "workbench.editor.customLabels.patterns": {
-    "**/current manuscript/_may-reference*.md": "OLDER · May check",
+    "**/may check/**": "OLDER · May check",
     "**/current manuscript/[0-9][0-9]-*.md": "YOUR BOOK · ${filename}",
     "**/current manuscript/00-*.md": "YOUR BOOK · ${filename}"
   }

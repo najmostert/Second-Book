@@ -23,6 +23,7 @@ Keep this file short. **Do not** duplicate long guidance here — update the own
 | Life outline (stable) | `story planning/ideas-and-outline.md` | status chatter |
 | Working chapters | `current manuscript/` | legacy Pages |
 | Voice reference (May) | `legacy/exports/may26.txt` (local) | don’t re-import as “lead” |
+| May side-by-side pages | `may check/` only | never under `current manuscript/` |
 
 ## Draft roles (do not mix)
 
