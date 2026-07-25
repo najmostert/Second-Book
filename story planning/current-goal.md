@@ -11,6 +11,7 @@ Confirmed 2026-07-24:
 - **Past tense** for chapter narrative  
 - **British English** spelling (including **towards**, not *toward*)  
 - Light grammar fixes when editing  
+- **Correct spelling as she edits** (British English); do not wait to be asked each time for clear typos  
 - When restoring voice: prefer **May** wording (in past tense), not Gemini padding  
 - **Dan’s French-keyboard email** (Madagascar 2003): keep the messy typed text exactly as written — never “correct” or tidy it; the mess is the point  
 
