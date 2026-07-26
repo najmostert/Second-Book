@@ -21,6 +21,12 @@ Keep this file short. **Do not** duplicate long guidance here — update the own
 | Current goal | `story planning/current-goal.md` | where-we-left-off, outline |
 | Session bookmark | `story planning/where-we-left-off.md` | current-goal, README |
 | Life outline (stable) | `story planning/ideas-and-outline.md` | status chatter |
+| Narrative shape / hero’s journey | `story planning/story-shape.md` | outline, chapter files |
+| Voice hallmarks + anti-Gemini checklist | `story planning/voice-guide.md` | recover-voice skill body, rules |
+| Recurring motifs and payoffs | `story planning/threads-and-echoes.md` | outline, story-shape |
+| Per-chapter summary + lengths | `story planning/chapter-by-chapter.md` | table of contents |
+| Name/place register | `story planning/people-and-places.md` | outline “people who matter” |
+| Years and places | `story planning/life-timeline.md` | outline, chapter-by-chapter |
 | Working chapters | `current manuscript/` | legacy Pages |
 | Voice reference (May) | `legacy/exports/may26.txt` (local) | don’t re-import as “lead” |
 | May side-by-side pages | `may check/` only | never under `current manuscript/` |
