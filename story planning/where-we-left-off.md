@@ -1,7 +1,8 @@
 # Where we left off
 
 - **Date:** 2026-07-28  
-- **Last focus:** Chapter 19 Madagascar 2006 — finished a full pass (past tense, British spelling, typos, tidy). Chapter 20 Sweden — rebuilt from her May version in past tense: padding removed, dialogue put back on its own lines, ‘Haveaniceflightwithklm.’ restored, invented headings taken out  
+- **Last focus:** Three chapters done. Ch 19 Madagascar 2006 — full pass (past tense, British spelling, typos). Ch 20 Sweden — rebuilt from May in past tense: padding removed, dialogue back on its own lines, ‘Haveaniceflightwithklm.’ restored, invented headings taken out. Ch 21 Finland — May paragraphs restored (was one huge block), put into past tense  
+- **Confirmed by her:** her mother-in-law is **Anne-Sofie** (hyphen) — now consistent across the book  
 - **How we’re working now:** she changes the content, the helper fixes spelling, typos and grammar as she goes without stopping to ask, then lists what changed  
 - **Open:** she is going to write in the missing ferry part in Sweden (it jumps from Mark’s barbecue to the gingerbread house)  
 - **Next:** Finland 2008 — check it against the May version the same way  

@@ -88,7 +88,7 @@ After another lovely day in Karlskrona it was time to return to Sweden.
 
 The same fiasco as last time occurred with changing train carriages and we found ourselves dragging tons of luggage behind us as we wandered down the track looking for our seats. In the end we just hauled ourselves on board and I lifted a 25 kg case over a dog kennel, complete with dog. I was still swearing as we entered the ‘tyst avdelning’ — the ‘quiet carriage’ — and received a few frowns.
 
-Back in Stockholm, Anne Sofie said she was treating us to a short cruise to Finland on the Viking Lines, The Arabella. It had a huge black and red funnel and looked quite sleek. I was quite excited at the prospect of visiting another Nordic country-it was quite exciting for all of us, especially Tim who hadn’t been on a liner before. The Arabella is technically a ferry but it loses none of its majestic splendour for that.
+Back in Stockholm, Anne-Sofie said she was treating us to a short cruise to Finland on the Viking Lines, The Arabella. It had a huge black and red funnel and looked quite sleek. I was quite excited at the prospect of visiting another Nordic country — it was quite exciting for all of us, especially Tim who hadn’t been on a liner before. The Arabella is technically a ferry but it loses none of its majestic splendour for that.
 
 Someone took photos of the passengers as we were boarding. I later walked around to find the photos of us that had been displayed on a large white board. I recognised Tim’s T-shirt and had a closer look. In the photograph, I had turned round to say something to Col. My eyes were half closed, mouth open mid-sentence and the overall look was of the intellectually disabled, so I quickly returned to the others and said I couldn’t find our photo.
 
