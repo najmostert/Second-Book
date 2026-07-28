@@ -122,7 +122,7 @@ I dreamt that my house is leaking throughout from the ceiling. In the dream, I  
 After pouring some milk in my tea, I push the small carton right at the back of the fridge. It’s a shared fridge so I want to make sure my milk isn’t conveniently available for all and sundry. It’s giving college living vibes.  
 
 My table at Coach Cafe becomes crowded with things so I move a glass and it falls to the floor and smashes into a million micro particles. Everyone’s legs instinctively fly up into the air. The poor waitress has to sweep all the tiny pieces of glass up with me babbling my apologies; too many people walk around bare foot here. 
-Two young girls from Jakarta arrive wearing very little in the way of clothing, long painted talons clutching colourful cell phones with lots of dangly bits. They order coffee and complain about their boyfriends. I can’t help overhearing their conversation as it’s loud enough for all to hear (I took notes!).
+Two young girls from Jakarta arrive wearing very little in the way of clothing, long painted talons clutching colourful cellphones with lots of dangly bits. They order coffee and complain about their boyfriends. I can’t help overhearing their conversation as it’s loud enough for all to hear (I took notes!).
 
 ‘I told him he’s got negative aura with that DHgate Louis V and not to come back until his bread is actually up,’ says one girl with a toss of her long dark hair.
 Her friend raises a heavily penciled brow, slurps noisily through her straw and says, 
