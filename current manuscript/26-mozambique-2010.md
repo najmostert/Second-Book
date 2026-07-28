@@ -2,7 +2,7 @@
 
 The typical start to hot weather saw Col and me bumping into each other at intervals after a hideous month of stress at work. In the end, I arbitrarily flung things into a case, hoping some of it would be useful. We were off to Mozambique on the east coast of Africa, simultaneously avoiding the crowds of tourists who were there for the rugby World Cup.
 
-Mozambique is bordered by the Indian Ocean to the east, with neighbouring countries including Tanzania, Malawi, Zambia, Zimbabwe, South Africa, and Eswatini (formerly Swaziland). In 1752, it was brought under direct control from the Portuguese in Lisbon. As a result of this link with India, numerous Indian trading communities settled in the country, and their influence can still be seen today. Independent Arab trading ‘states’ survived until the end of the 19th century. Portuguese is the official language although English is widely spoken.
+Mozambique is bordered by the Indian Ocean to the east, with neighbouring countries including Tanzania, Malawi, Zambia, Zimbabwe, South Africa, and Eswatini (formerly Swaziland). In 1752, it was brought under direct control from the Portuguese in Lisbon. Independent Arab trading ‘states’ survived until the end of the 19th century. Portuguese is the official language although English is widely spoken.
 
 In terms of my tech equipment, I had several phone, laptop and camera chargers, one iPod, two cameras, external speakers, and two external hard drives — you would swear we were preparing to set up a music festival of sorts instead of travelling to Mozambique on holiday.
 
