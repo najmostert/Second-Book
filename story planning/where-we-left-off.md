@@ -5,7 +5,8 @@
 - **Confirmed by her:** her mother-in-law is **Anne-Sofie** (hyphen) — now consistent across the book  
 - **How we’re working now:** she changes the content, the helper fixes spelling, typos and grammar as she goes without stopping to ask, then lists what changed  
 - **Open:** she is going to write in the missing ferry part in Sweden (it jumps from Mark’s barbecue to the gingerbread house)  
-- **Next:** Finland 2008 — check it against the May version the same way  
+- **Next:** Addo 2009 — check it against the May version the same way  
+- **Confirmed by her:** Ch 21 Finland keeps a plain title — no hook needed. Don't ask again  
 - **Waiting on her, no rush:** the six planning notes from 26 July (which six countries; John vs Jonny; whether the weather line should end the book)  
 - **Still running underneath:** May voice recovery, chapter by chapter
 
