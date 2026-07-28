@@ -62,9 +62,9 @@ The Barefoot Viking of Birka
 
 We disembarked at Birka, the only true Viking town on the Scandinavian peninsula of Björkö which was, until a thousand years ago, a busy market town on the western side of the island. It was a lot smaller in the Viking age due to the Baltic being roughly four to five metres higher than it is today. We wandered over to a restaurant for a ‘Fisk och lök’ roll with coffee (fish and onion).
 
-Lové (pronounced ‘Louverh’) was a blond-haired Swedish lad dressed in Viking attire of leather waistcoat and baggy brown trousers that ended above the ankle. He took us on a tour of the small island barefoot because, he informed us, their supply of ‘Viking shoes’ had not yet arrived. We followed him to the nearby fort then down some narrow gravel tracks overgrown with grass, where ‘once ancient Björkö lay’, he informed us in his slightly accented English. Birch trees grew between the large burial mounds of which there are roughly 1,600 on the island. The highest point was dedicated with a large stone cross that rose above the island like a beacon, erected to honour the Benedictine monk Ansgar.
+Lové (pronounced ‘Louverh’) was a blond-haired Swedish lad dressed in Viking attire of leather waistcoat and baggy brown trousers that ended above the ankle. He took us on a tour of the small island barefoot because, he informed us, their supply of ‘Viking shoes’ had not yet arrived. We followed him to the nearby fort then down some narrow gravel tracks overgrown with grass, where ‘once ancient Björkö lay’, he informed us in his slightly accented English. Birch trees grew between the large burial mounds of which there are roughly 1,600 on the island. The highest point was dedicated with a large stone cross that rose above the island like a beacon, erected to honour the Benedictine monk Ansgar, who brought Christianity to the country.
 
-Lové told us that the town of Björkö consists of only two farms that date back to the 750's.
+Lové told us that the town of Björkö consists of only two farms that date back to the 750s.
 
 We chatted to him while leaning against the old stone wall of the former fort. There was a small museum on the island and I bought some hops with a recipe to make mead as soon as I got home. (I found the packet of hops five years later, full of weavils, hidden behind the ‘Chinese seven spice’ bottle.)
 
