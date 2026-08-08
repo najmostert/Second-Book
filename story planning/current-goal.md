@@ -8,12 +8,13 @@ Recover her book’s voice after an unhelpful Gemini rewrite — hand-editing to
 
 Confirmed 2026-07-24:
 
-- **Past tense** for chapter narrative  
+- **Past tense** for chapter narrative — including place facts told as part of the trip (do **not** leave guidebook-style present); spoken dialogue and short asides in her voice may stay as said  
 - **British English** spelling (including **towards**, not *toward*)  
 - Light grammar fixes when editing  
 - **Correct spelling as she edits** (British English); do not wait to be asked each time for clear typos  
 - When restoring voice: prefer **May** wording (in past tense), not Gemini padding  
 - **From Lapland onward (confirmed 2026-07-29):** for **every remaining chapter**, use the **May** version as the base — do not ask each time; put into past tense, remove Gemini padding/invented headings, keep her May wording and light grammar/spelling only  
+- **Past-tense sweep (confirmed 2026-08-08):** check each new/updated chapter systematically for present-tense slip-ups before handing it to her  
 - **Dan’s French-keyboard email** (Madagascar 2003): keep the messy typed text exactly as written — never “correct” or tidy it; the mess is the point  
 
 Short phrase: **May past tense for all remaining chapters**
@@ -27,4 +28,4 @@ Short phrase: **May past tense for all remaining chapters**
 
 ## Last confirmed
 
-2026-07-29 — May version is the default for all remaining chapters (including Lapland), past tense + British English; no need to re-ask each chapter.
+2026-08-08 — Past tense must be systematic for trip narrative (including place facts); no leaving guidebook present. May version still the default for all remaining chapters.
