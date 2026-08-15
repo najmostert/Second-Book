@@ -30,4 +30,4 @@ Short phrase: **May voice — past for the journey, present for what still stand
 
 ## Last confirmed
 
-2026-08-08 — Past tense must be systematic for trip narrative (including place facts); no leaving guidebook present. May version still the default for all remaining chapters.
+2026-08-14 — Trip narrative in past tense; cities, mountains, statues and other things that still stand in present. May still the default for remaining chapters.
