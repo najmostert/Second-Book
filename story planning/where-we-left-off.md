@@ -1,10 +1,10 @@
 # Where we left off
 
 - **Date:** 2026-08-15  
-- **Last focus:** Ch 45 Norway: Oslo 2018 — May into mixed tense (past journey / present standing places); includes Sweden; opened for her  
+- **Last focus:** Ch 46 Japan 2019 — May into mixed tense (past journey / present standing places) and opened for her  
 - **How we’re working now:** she changes the content; helper fixes spelling/grammar/tense as she goes; **May + mixed tense rule** for remaining chapters  
-- **Next:** she edits Norway, or Japan 2019 when ready  
-- **Note:** short May Frankfurt layover (after Crete) has no chapter of its own — can tuck onto Serbia later if she wants  
+- **Next:** she edits Japan 2019, or Europe 2019 when ready  
+- **Note:** short May Frankfurt layover still available to tuck onto Serbia if she wants  
 - **Confirmed by her:** Anne-Sofie · cellphone · May for remaining chapters · present for standing places; past for trip  
 - **Open:** missing ferry part in Sweden  
 - **Waiting on her, no rush:** the six planning notes from 26 July  
