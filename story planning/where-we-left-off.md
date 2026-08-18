@@ -1,7 +1,7 @@
 # Where we left off
 
 - **Date:** 2026-08-18  
-- **Last focus:** Ch 47 Europe 2019 — she’s reading and editing  
+- **Last focus:** Ch 47 Europe 2019 — green/pink compare open for her to edit  
 - **How we’re working now:** she changes the content; helper fixes spelling/grammar/tense as she goes; **May + mixed tense rule** for remaining chapters  
 - **Next:** she edits Europe 2019, or Indonesia 2021 when ready  
 - **Note:** short May Frankfurt layover still available to tuck onto Serbia if she wants  
