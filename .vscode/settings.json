@@ -5,6 +5,8 @@
     "*.md": "default",
     "*.markdown": "default"
   },
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
   "vscode-office.enableTelemetry": false,
   "vscode-office.editMode": "wysiwyg",
   "vscode-office.editorTheme": "Warm Light",
